@@ -1,0 +1,46 @@
+:root {
+  /* Brand Palette */
+  --brand-600: #E11D2E;
+  --brand-500: #F43F4F;
+  --accent-500: #FF7A1A;
+  --accent-400: #FFA24D;
+
+  /* Neutrals */
+  --ink-900: #0F1115;
+  --ink-600: #4B5563;
+  --grey-50: #F8F9FB;
+  --grey-100: #EEF0F4;
+  --grey-200: #E1E5EB;
+  --white: #FFFFFF;
+
+  /* Semantic */
+  --success: #16A34A;
+  --warning: #F59E0B;
+  --danger: #DC2626;
+  --info: #2563EB;
+
+  /* Signature Gradient */
+  --brand-gradient: linear-gradient(135deg, #E11D2E 0%, #FF7A1A 100%);
+
+  /* Typography */
+  --font-display: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+
+  /* Radius */
+  --radius-input: 8px;
+  --radius-card: 12px;
+  --radius-modal: 16px;
+  --radius-pill: 999px;
+
+  /* Shadows — three tiers only, soft low-opacity */
+  --shadow-sm: 0 1px 2px 0 rgba(15, 17, 21, 0.04);
+  --shadow-md: 0 4px 12px -2px rgba(15, 17, 21, 0.06), 0 2px 4px -2px rgba(15, 17, 21, 0.04);
+  --shadow-lg: 0 16px 32px -8px rgba(15, 17, 21, 0.09), 0 4px 12px -4px rgba(15, 17, 21, 0.04);
+
+  /* Motion */
+  --ease-out-expo: cubic-bezier(0.22, 1, 0.36, 1);
+  --duration-micro: 150ms;
+  --duration-transition: 250ms;
+  --duration-entrance: 400ms;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "MarketPulse",
+  "description": "AI-powered social media analytics and customer insights platform for small businesses and local retailers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
